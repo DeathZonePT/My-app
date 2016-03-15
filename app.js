@@ -17,5 +17,5 @@ app.on('ready', function() {
  })
 
   // mainWindow.loadURL('file://' + __dirname + '/browser.html');
-  mainWindow.loadURL('https://youtube.com/');
+  mainWindow.loadURL('https://google.com/');
 });
