@@ -1,7 +1,7 @@
 {
-  "name": "Telmo",
+  "name": "DeathZone",
   "version": "1.0.0",
-  "description": "Telmo app",
+  "description": "My first app",
   "main": "app.js",
   "scripts": {
     "start": "electron ."
