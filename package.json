@@ -1,0 +1,19 @@
+{
+  "name": "Telmo",
+  "version": "1.0.0",
+  "description": "Telmo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathZonePT/My-app.git"
+  },
+  "author": "Pedro Fortuna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeathZonePT/My-app/issues"
+  },
+  "homepage": "https://github.com/DeathZonePT/My-app#readme"
+}
